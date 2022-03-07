@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1447c23b-1247-410d-b1e1-fa4095763a9a" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/Exercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/list/ExemploList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/list/ExemploOrdenacaoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/list/ExemploOrdenacaoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/list/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/list/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/map/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/map/ExemploOrdenacaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/map/exercicioProposto03/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/map/exercicioProposto03/ExercicioProposto03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/streamAPI/ExercicioStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../curso-dio-intro-collections/src/br.com.dio.collection/streamAPI/RefatoracaoOrdenacaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/areaDireita/AreaDireita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/circulo/AreaCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/dama/Dama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/experiencia/Experiencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/feira/Feira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/filme/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/notacaoCientifica/NotacaoCientifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/notasEMoedas/NotasEMoedas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/numPares/NumPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios-gft/src/br/com/dio/gft/desafios/tabuleiroSecreto/TabuleiroSecreto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptions-java/src/br/com/dio/exceptions/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptions-java/src/br/com/dio/exceptions/DivisaoNaoExataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptions-java/src/br/com/dio/exceptions/ExceptionCustomizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptions-java/src/br/com/dio/exceptions/ExceptionCustomizada_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptions-java/src/br/com/dio/exceptions/UncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-metodos/src/br/com/dio/metodos/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-metodos/src/br/com/dio/metodos/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-metodos/src/br/com/dio/metodos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-metodos/src/br/com/dio/metodos/Mensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-metodos/src/br/com/dio/metodos/Quadrilateros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/ClasseFilha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/ClasseFilha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/ClasseMae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/OperacaoMatematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/associacao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/associacao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/associacao/Cupom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/associacao/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/associacao/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/associacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/meio/transporte/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/meio/transporte/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/meio/transporte/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/meio/transporte/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/pessoa/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/pessoa/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/pessoa/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacao-OO/src/one/digitalinnovation/dio/pessoa/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/IConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-banco/src/br/com/dio/gft/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign/src/main/java/com/example/projetoonefeign/AgendaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign/src/main/java/com/example/projetoonefeign/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign/src/main/java/com/example/projetoonefeign/ProjetoonefeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign2/src/main/java/com/example/projetoonefeign2/AgendaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign2/src/main/java/com/example/projetoonefeign2/ConsumindoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign2/src/main/java/com/example/projetoonefeign2/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign2/src/main/java/com/example/projetoonefeign2/Projetoonefeign2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoonefeign2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboottest/src/main/java/com/example/springboottest/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboottest/src/test/java/com/example/springboottest/TestUnitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootweb/src/main/java/com/primeiroprojeto/dio/springbootweb/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootweb/src/main/java/com/primeiroprojeto/dio/springbootweb/SpringbootwebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="262FbvHR27olp9LEYtVHDfG2Q87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1447c23b-1247-410d-b1e1-fa4095763a9a" name="Changes" comment="" />
+      <created>1646613850679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646613850679</updated>
+      <workItem from="1646613852194" duration="805000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1646614199374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646614199374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
